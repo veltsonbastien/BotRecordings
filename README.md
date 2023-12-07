@@ -1,4 +1,5 @@
-BotRecordings makes it easy to add a bot to a video call and get the video recording! This is a demo built on top of the [Recall.ai](https://www.recall.ai/) API. 
+# BotRecordings: Develop with video call bots!
+BotRecordings makes it easy to add a bot to a video call and get the video recording. This is a demo built on top of the [Recall.ai](https://www.recall.ai/) API. 
 
 ## Step 1: Get started on Recall.ai
 
